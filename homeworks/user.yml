@@ -36,5 +36,5 @@ skills:
       Vagrant
 pets:
   - name: Гучи
-    kind: Британец
-    hasVoice: true
+    breed: Британец
+    canMeow: true
