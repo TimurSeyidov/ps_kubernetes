@@ -1,0 +1,18 @@
+isAdmin: true
+name: Timur
+age: 36
+city: Limassol
+skills: |
+  js
+  nodejs
+  html
+  css
+  php
+  pyton
+  MySQL / PostgreSQL
+  MongoDb
+  devops
+pets:
+  - cat
+phone: X XXX XXX-XX-XX
+experience: 15
