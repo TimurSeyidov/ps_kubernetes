@@ -1,18 +1,40 @@
-isAdmin: true
-name: Timur
-age: 36
-city: Limassol
-skills: |
-  js
-  nodejs
-  html
-  css
-  php
-  pyton
-  MySQL / PostgreSQL
-  MongoDb
-  devops
+user:
+  isAdmin: true
+  name: Timur
+  age: 36
+  position: RnD
+residence:
+  country: Cyprus
+  city: Limassol
+  street: Fake street
+  house: 26
+  flat: 1
+skills:
+  - name: frontend
+    level: 5
+    description: |
+      js
+      react
+      html
+      css
+  - name: backend
+    level: 4
+    description: |
+      nodejs
+      php
+      python
+  - name: database
+    level: 4
+    description: |
+      MySQL / PostgreSQL
+      MongoDb
+  - name: devops
+    level: 4
+    description:
+      Docker
+      Kubernetes
+      Vagrant
 pets:
-  - cat
-phone: X XXX XXX-XX-XX
-experience: 15
+  - name: Гучи
+    kind: Британец
+    hasVoice: true
